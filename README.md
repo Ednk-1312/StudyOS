@@ -1,8 +1,8 @@
-# StudyOS
+# StudyFlow
 
 **Your school, organized automatically.**
 
-StudyOS is a privacy-first, offline-capable native iOS study command center for iPhone and iPad. It brings assignments, planning, scanning, study materials, on-device AI study tools, a smart timer, school calendar, widgets, and a utility toolbox together in one app.
+StudyFlow is a privacy-first, offline-capable native iOS study command center for iPhone and iPad. It brings assignments, planning, scanning, study materials, on-device AI study tools, a smart timer, school calendar, widgets, and a utility toolbox together in one app.
 
 ## Features
 
@@ -81,7 +81,7 @@ Optional, read-only integration for importing classes and coursework. OAuth toke
 
 ## Privacy
 
-StudyOS is local-first. Assignments, planner data, materials, and study history are stored on the device by default.
+StudyFlow is local-first. Assignments, planner data, materials, and study history are stored on the device by default.
 
 * No ads
 * No tracking SDKs
@@ -93,7 +93,7 @@ StudyOS is local-first. Assignments, planner data, materials, and study history 
 
 ## Distribution
 
-StudyOS is currently distributed directly as a signed `.ipa` for sideloading rather than through the App Store.
+StudyFlow is currently distributed directly as a signed `.ipa` for sideloading rather than through the App Store.
 
 **Platform:** iOS
 **Bundle ID:** `com.Study-Tracking-AIO`
